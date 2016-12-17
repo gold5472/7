@@ -1,0 +1,2 @@
+6 = Cube dice
+8 = Octahedron dice
