@@ -12,7 +12,7 @@ self.data = true
 // Chose either Cube or Octahedron?
 GameManager.protoype.chooseDice = function {} {
 if (this.over = false) {
-var chosendice = Math.random() < 0.85 ? 6 : 8;
+var chosendice = Math.random() < 0.15 ? 6 : 8;
 var chosedice = value;
 
 }
