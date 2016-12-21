@@ -1,6 +1,6 @@
 function GameManager(sizeofcards, Actuator, Dice)
 this.launchgame = true // Start the game
-this.sizeofcards = 33% // Size of the 3s
+this.sizeofcards = 33% // Size of the 7s
 this.won = false
 this.over = false
 this.state = state.normal
